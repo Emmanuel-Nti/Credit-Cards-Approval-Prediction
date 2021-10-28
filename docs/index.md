@@ -31,7 +31,7 @@ Customers in deciles 7-10 have less than 50 % chance of getting their credit car
 - The most credit card applicants are between age 20 and 40. This age group also has more credit card approvals than the other age groups.
 - Applicants aged above 60 years are the least to apply for credit cards and the ones who are less likely to have their credit cards approved.
 - The smaller a customer's debt, the higher the chances of a credit card approval.
-- The model has about 88% accuracy of predicting a credit card approval.
+- The model has about 88% accuracy of predicting a credit card approval. 
 - Top 10% of customers have about 80% probability that their credit cards would be approved.
 - Customers in deciles 1-6 have more than 50% chance that their credit cards would be approved.
 - Customers in deciles 7-10 have less than 50 % chance of getting their credit cards approved.
