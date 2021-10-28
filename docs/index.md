@@ -1,6 +1,6 @@
 # Predicting Credit Card Approvals
 <p align ="center">
-   <img src = "images/image.PNG" width="1000" 
+   <img src = "images/credit_cards.jpg" width="1000" 
      height="500">
  </p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/credit_cards_approvals_prediction/blob/master/Predicting_credit_cards.ipynb)
@@ -22,7 +22,7 @@ The decile analysis shows that the top 10% of customers have about 80% probabili
 Customers in deciles 1-6 have more than 50% chance that their credit cards would be approved. 
 Customers in deciles 7-10 have less than 50 % chance of getting their credit cards approved.
 <p align ="center">
-   <img src = "images/credit_cards.jpg">
+   <img src = "images/image.PNG">
  </p>
  
 ## General Findings
