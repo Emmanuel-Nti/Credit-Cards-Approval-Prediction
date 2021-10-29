@@ -1,7 +1,7 @@
 # Predicting Credit Card Approvals
 <p align ="center">
    <img src = "images/credit_cards.jpg" width="1000" 
-     height="500">
+     height="400">
  </p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/credit_cards_approvals_prediction/blob/master/Predicting_credit_cards.ipynb)
 
@@ -9,12 +9,13 @@
 - Importation of the data and libraries
 - Preprocessed the data and carried out exploratory data analysis 
   - Checked for missing values and duplicates
-  - Endcoded categorical columns with LabelEncoder so the machine learns better.
+  - Endcoded categorical columns with LabelEncoder.
   - Visualized the distributtion with a Histplot
   - Checked correlation between variables
 - Data Analysis
-  - Build a model to pridict credit cards approval
+  - Built a model to pridict credit cards approval
   - Improved the model with hyperparameter tuning (using GridSearchCV)
+  - Decile Analysis
 - Conclusion and recommendations
  
 ## Decile Analysis
